@@ -38,7 +38,4 @@ Tela inicial sem/com as turmas: <br/><br/>
 Tela de turmas com/sem pessoas: <br/><br/>
 
 ![2](https://user-images.githubusercontent.com/78974230/232105172-98ad9f94-fa20-4a15-b293-25767334d3d5.png)
-![3](https://user-images.githubusercontent.com/78974230/232105199-82a24dcb-5e69-4876-92d4-144638343d74.png)
-
-
-
+![3](https://user-images.githubusercontent.com/78974230/232106069-01aa7d04-1ea6-4d90-ba1b-0c5cd57f5ed5.png)
