@@ -1,6 +1,18 @@
 # Igniteteams - Projeto do Curso ignite da Rocketseat
 
-Este é o projeto 02 do curso Ignite da Rocketseat em 2022, que contém as seguintes funcionalidades:
+Este é o projeto 02 do curso Ignite da Rocketseat em 2022.
+
+Tela inicial sem/com as turmas: <br/><br/>
+
+![0](https://user-images.githubusercontent.com/78974230/232104302-eeb4e1a7-20e3-4613-8398-6993899aac69.png)
+![1](https://user-images.githubusercontent.com/78974230/232103722-f4214b44-68a2-4bc2-9f07-022dbdbdf519.png)
+
+Tela de turmas com/sem pessoas: <br/><br/>
+
+![2](https://user-images.githubusercontent.com/78974230/232105172-98ad9f94-fa20-4a15-b293-25767334d3d5.png)
+![3](https://user-images.githubusercontent.com/78974230/232106069-01aa7d04-1ea6-4d90-ba1b-0c5cd57f5ed5.png)
+
+Para o desenvolvimento desse app, foram utilizadas as seguintes funcionalidades:
 
 ## Path mapping
 
@@ -27,15 +39,3 @@ Documentação oficial: https://reactnavigation.org/docs/native-stack-navigator/
 O Local Storage / Async Storage é uma maneira de salvar dados localmente no dispositivo do usuário. É muito útil para armazenar informações que precisam ser acessadas rapidamente, como preferências do usuário ou dados de sessão.
 
 Documentação oficial do Expo: https://docs.expo.dev/versions/latest/sdk/async-storage/ <br/><br/>
-
-## Abaixo algumas fotos 
-
-Tela inicial sem/com as turmas: <br/><br/>
-
-![0](https://user-images.githubusercontent.com/78974230/232104302-eeb4e1a7-20e3-4613-8398-6993899aac69.png)
-![1](https://user-images.githubusercontent.com/78974230/232103722-f4214b44-68a2-4bc2-9f07-022dbdbdf519.png)
-
-Tela de turmas com/sem pessoas: <br/><br/>
-
-![2](https://user-images.githubusercontent.com/78974230/232105172-98ad9f94-fa20-4a15-b293-25767334d3d5.png)
-![3](https://user-images.githubusercontent.com/78974230/232106069-01aa7d04-1ea6-4d90-ba1b-0c5cd57f5ed5.png)
